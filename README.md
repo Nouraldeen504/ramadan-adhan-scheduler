@@ -1,4 +1,4 @@
-# Ramadan Adhan Automation Tool
+# Ramadan Adhan Scheduler Tool
 This Python script automates playing the adhan and Islamic media files at specific times during Ramadan using VLC Media Player and Windows Task Scheduler. It was created to support iftar events by scheduling media playback on a laptop connected to HDMI screens.
 
 ## Requirements
@@ -10,8 +10,8 @@ This Python script automates playing the adhan and Islamic media files at specif
 ## Setup and Usage
 1. **Get the Script**: Clone or download from GitHub:
    ```bash
-   git clone https://github.com/Nouraldeen504/ramadan-adhan-automation.git
-   cd ramadan-adhan-automation
+   git clone https://github.com/Nouraldeen504/ramadan-adhan-scheduler.git
+   cd ramadan-adhan-scheduler
    ```
 
 2. **Configure Paths**: Edit iftar_scheduler.py:
